@@ -17,7 +17,7 @@ function Latest() {
                 <div className="img-col3">
                     <img src="https://i.ibb.co/d52TDLy/bff366efc73350d196325f72ae85615d.jpg" alt="bff366efc73350d196325f72ae85615d" className="col1" />
                     <div className="col-text1"><p className="dat"> 20 APR</p></div>
-                    <div className="col-text2">The Covid-19 Epidemic In 2022 <br /> Is Back</div>
+                    <div className="col-text2" id="col-text2">The Covid-19 Epidemic In 2022 <br /> Is Back</div>
                 </div>
                 <div className="img-col4">
                     <img src="https://i.ibb.co/d52TDLy/bff366efc73350d196325f72ae85615d.jpg" alt="bff366efc73350d196325f72ae85615d" className="col4" />
